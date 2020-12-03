@@ -127,16 +127,15 @@ p{
 }
 
 .cuerpoCars{
-  display: flex;
-  margin-top: 20px;
+  overflow: hidden;
   text-align: center;
   justify-content: center;
 
 
 }
 .tarjetas{
+  float: left;
   margin: 3%;
-  justify-content: left;
 
 }
 .tarjetas:hover{
