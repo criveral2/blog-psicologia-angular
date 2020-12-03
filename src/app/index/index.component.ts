@@ -65,6 +65,8 @@ export class IndexComponent implements OnInit {
       idTarjeta: 23
     }
   
+
+    
   ]
 
 }

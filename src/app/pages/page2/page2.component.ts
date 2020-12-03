@@ -45,6 +45,8 @@ export class Page2Component implements OnInit {
       titulo : "nulaaaaaaaal",
       imgSec : "../../../assets/img/102291825_590345768252505_2729692350740692992_n.jpg",
       parrafo : "null"
+
+      
     }
     ,
     {
